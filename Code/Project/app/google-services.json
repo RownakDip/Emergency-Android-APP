@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56107196653",
+    "project_id": "lifesaverric",
+    "storage_bucket": "lifesaverric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56107196653:android:91069139db17cee146ace4",
+        "android_client_info": {
+          "package_name": "com.example.lifesaverric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56107196653-o75hif1s6r321c3gmi6ij7vv49jaa2n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCze5VF-tP8DI_4dMKkko8gD5eo4PoJRC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56107196653-o75hif1s6r321c3gmi6ij7vv49jaa2n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
